@@ -1,5 +1,1 @@
-### Hi there 👋
-
-<!--
-**get-heard/get-heard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://github.com/get-heard/get-heard/blob/main/bg-masthead1.jpg)
