@@ -10,4 +10,7 @@
 ## 😂 A Random Tech Joke ....
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/gkitchen)
+[![Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://www.kaggle.com/gkitchen)
+
+
+https://img.shields.io/badge/Kaggle_Notebooks-Master-orange
