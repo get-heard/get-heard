@@ -1,6 +1,4 @@
 ## PORTFOLIO 
-Welcome to my portfolio. I have been self-employed in data analysis for over 20 years. 
-
 ### Dashboards
 - [US Stock Market](https://getheard.quarto.pub/spy)
 - [Global Development](https://getheard.quarto.pub/gapminder)
