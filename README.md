@@ -1,4 +1,5 @@
 ## PORTFOLIO 
+Welcome to my portfolio. I have been self-employed as a consultant and researcher for over 20 years. 
 
 ### Dashboards
 - [US Stock Market](https://getheard.quarto.pub/spy)
