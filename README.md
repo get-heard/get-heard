@@ -2,8 +2,9 @@
 
 | Dashboards | Data Apps|
 | ------------- | ------------- |
-| [US Stock Market](https://getheard.quarto.pub/spy)  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [US Stock Market](https://getheard.quarto.pub/spy)  | |
+| [Global Development](https://getheard.quarto.pub/gapminder)  | Content Cell  |
+| [Restaurant Takings](https://getheard.quarto.pub/tips  | Content Cell  |
 
 ## PORTFOLIO 
 ### Dashboards
