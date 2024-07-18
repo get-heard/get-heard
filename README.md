@@ -10,5 +10,5 @@
 ## 😂 A Random Tech Joke ....
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[Kaggle][[Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange
+[[Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange
 )
