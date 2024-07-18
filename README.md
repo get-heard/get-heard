@@ -1,4 +1,4 @@
-<picture><img alt="YOUR-ALT-TEXT" src="Banner.jpg"></picture>
+![alt text]("Banner.jpg")
 
 ## PORTFOLIO 
 ### Dashboards
