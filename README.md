@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-## Dashboards:
+## Dashboards
 ### [US Stock Market](https://getheard.quarto.pub/spy); [Global Development](https://getheard.quarto.pub/gapminder); [Restaurant Takings](https://getheard.quarto.pub/tips)
 
 ## Data Apps:
