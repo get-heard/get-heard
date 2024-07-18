@@ -2,9 +2,9 @@
 
 | Dashboards | Data Apps|
 | ------------- | ------------- |
-| [US Stock Market](https://getheard.quarto.pub/spy)  | |
-| [Global Development](https://getheard.quarto.pub/gapminder)  | Content Cell  |
-| [Restaurant Takings](https://getheard.quarto.pub/tips  | Content Cell  |
+| [US Stock Market](https://getheard.quarto.pub/spy)  | [Heart Disease Prediction](https://hearts.streamlit.app)|
+| [Global Development](https://getheard.quarto.pub/gapminder)  |[Diamond Price Prediction](https://diamondz.streamlit.app) |
+| [Restaurant Takings](https://getheard.quarto.pub/tips)  | [Find Charities](https://charities.streamlit.app)  |
 
 ## PORTFOLIO 
 ### Dashboards
