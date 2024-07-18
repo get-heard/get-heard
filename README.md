@@ -1,6 +1,7 @@
-## Hello welcome to my Porfolio 👋
+## Hello welcome to my Porfolio.👋
 
-# Dashboard
+### Dashboards
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
