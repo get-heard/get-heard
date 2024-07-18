@@ -2,6 +2,11 @@
 
 ### Dashboards
 #### [US Stock Market](https://getheard.quarto.pub/spy); [Global Development](https://getheard.quarto.pub/gapminder); [Restaurant Takings](https://getheard.quarto.pub/tips)
+
+### Machine Learning
+#### [Heart Disease Prediction Demo]((https://hearts.streamlit.app)
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
