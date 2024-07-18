@@ -1,4 +1,4 @@
-## Welcome to my Porfolio.👋 
+## Porfolio
 
 ### Dashboards
 #### [Stockmarket Prediction Demo](https://getheard.quarto.pub/spy); [Global Development](https://getheard.quarto.pub/gapminder); [Restaurant Takings](https://getheard.quarto.pub/tips)
