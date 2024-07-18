@@ -2,8 +2,6 @@
   <img alt="YOUR-ALT-TEXT" src="https://github.com/get-heard/get-heard/Banner.jpg">
 </picture>
 
-https://github.com/get-heard/get-heard/Banner.jpg)
-
 ## PORTFOLIO 
 ### Dashboards
 - [US Stock Market](https://getheard.quarto.pub/spy)
