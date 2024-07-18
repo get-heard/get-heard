@@ -8,6 +8,9 @@
 ### Data Apps
 - [Heart Disease Prediction Demo](https://hearts.streamlit.app)
 - [Diamond Price Prediction Demo](https://diamondz.streamlit.app)
+- [Sound Classification Demo](https://sounds.streamlit.app)
+- [Charity Data Demo](https://charities.streamlit.app)
+
 
 
 - 🌱 I’m currently learning ...
