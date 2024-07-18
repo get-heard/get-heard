@@ -1,4 +1,5 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
+[![Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://www.kaggle.com/gkitchen)
 
 | Data Dashboards | Classification | Regression | Datasets |  
 | ------------- | ------------- | ------------- |   ------------- |  
@@ -9,8 +10,3 @@
 
 ## 😂 A Random Tech Joke ....
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://www.kaggle.com/gkitchen)
-
-
-https://img.shields.io/badge/Kaggle_Notebooks-Master-orange
