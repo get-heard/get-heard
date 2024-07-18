@@ -1,6 +1,4 @@
-<picture>
-  <img alt="YOUR-ALT-TEXT" src="Banner.jpg">
-</picture>
+<picture><img alt="YOUR-ALT-TEXT" src="Banner.jpg"></picture>
 
 ## PORTFOLIO 
 ### Dashboards
