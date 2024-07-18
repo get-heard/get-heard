@@ -1,7 +1,5 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
 [![Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://www.kaggle.com/gkitchen)
-[IBM](https://img.shields.io/badge/IBM_Professional_Certificate_in_Python_Data_Science-blue)
-
 
 | Data Dashboards | Classification | Regression | Datasets |  
 | ------------- | ------------- | ------------- |   ------------- |  
