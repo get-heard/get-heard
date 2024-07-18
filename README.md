@@ -1,4 +1,4 @@
-![alt text]("https://github.com/get-heard/get-heard/readme.md/Banner.jpg")
+![alt text]("https://github.com/get-heard/get-heard/readme.md/Banner.jpg](https://github.com/get-heard/get-heard/blob/main/Banner.jpg")
 
 ## PORTFOLIO 
 ### Dashboards
