@@ -1,7 +1,5 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{gkitchen}/notebook)
-
 | Data Dashboards | Classification | Regression | Datasets |  
 | ------------- | ------------- | ------------- |   ------------- |  
 | [US Stock Market Model](https://getheard.quarto.pub/spy)  | [Heart Disease Prediction](https://hearts.streamlit.app) | [House Price Prediction](https://www.kaggle.com/code/gkitchen/house-price-prediction)  | [S&P500 SPY](https://www.kaggle.com/datasets/gkitchen/s-and-p-500-spy)
