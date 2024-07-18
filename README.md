@@ -11,5 +11,5 @@
 - [Sound Classification](https://sounds.streamlit.app)
 - [Find Charities](https://charities.streamlit.app)
 
-### Focus Groups
-- [Carers in Sefton](https://sway.cloud.microsoft/Wn68NN7DxignWG0l)
+### Strategy
+- [UN Age-Friendly Cities](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2018/08/Sefton-Older-Peoples-Strategy-2019-2024.pdf))
