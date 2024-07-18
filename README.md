@@ -1,3 +1,5 @@
+![alt text](banner.png)
+
 ## PORTFOLIO 
 ### Dashboards
 - [US Stock Market](https://getheard.quarto.pub/spy)
