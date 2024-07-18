@@ -1,5 +1,5 @@
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://github.com/get-heard/get-heard/Banner.jpg">
+  <img alt="YOUR-ALT-TEXT" src="https://github.com/get-heard/get-heard/Banner.jpg">
 </picture>
 
 https://github.com/get-heard/get-heard/Banner.jpg)
