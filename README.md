@@ -14,4 +14,4 @@
 - [Age-Friendly Cities & Communities](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2018/08/Sefton-Older-Peoples-Strategy-2019-2024.pdf)
 
 ### Web Design
-- [https://getheard.io](https://get-heard.github.io)
+- [getheard.io](https://get-heard.github.io)
