@@ -12,4 +12,4 @@
 - [Find Charities](https://charities.streamlit.app)
 
 ### Focus Groups
-- [Carers in Sefton)[https://sway.cloud.microsoft/Wn68NN7DxignWG0l]
+- [Carers in Sefton](https://sway.cloud.microsoft/Wn68NN7DxignWG0l)
