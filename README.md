@@ -1,5 +1,5 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
-| Data Dashboards | Machine Learning - Classification | Machine Learning - Regression 
+| Data Dashboards | Machine Learning (Classification) | Machine Learning (Regression) 
 | ------------- | ------------- | ------------- |  
 | [US Stock Market](https://getheard.quarto.pub/spy)  | [Heart Disease Prediction](https://hearts.streamlit.app) | [House Price Prediction](https://www.kaggle.com/code/gkitchen/house-price-prediction)
 | [Global Development](https://getheard.quarto.pub/gapminder)  | [Autism Prediction](https://www.kaggle.com/code/gkitchen/autism-prediction)|[Diamond Price Prediction](https://diamondz.streamlit.app) 
