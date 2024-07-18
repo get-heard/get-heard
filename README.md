@@ -1,4 +1,4 @@
-![alt text]("Banner.jpg")
+![alt text]("https://github.com/get-heard/get-heard/Banner.jpg")
 
 ## PORTFOLIO 
 ### Dashboards
