@@ -1,5 +1,4 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{gkitchen}/notebook)
 
 | Data Dashboards | Classification | Regression | Datasets |  
 | ------------- | ------------- | ------------- |   ------------- |  
