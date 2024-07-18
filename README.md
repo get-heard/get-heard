@@ -2,8 +2,7 @@
 
 ### Dashboards
 
-
-- (Stockmarket Prediction Demo)[https://getheard.quarto.pub/spy]
+- (!Stockmarket Prediction Demo)[https://getheard.quarto.pub/spy]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
