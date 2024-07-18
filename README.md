@@ -1,6 +1,6 @@
 ![alt text](https://github.com/get-heard/get-heard/blob/main/Banner.jpg?raw=true)
 
-| Dashboards | Data Apps| Strategy | Classificaton | Regression |
+| Dashboards | Data Apps| Classification | Regression | Focus Groups|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 | [US Stock Market](https://getheard.quarto.pub/spy)  | [Heart Disease Prediction](https://hearts.streamlit.app)|[Age-Friendly Cities](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2018/08/Sefton-Older-Peoples-Strategy-2019-2024.pdf)| 
