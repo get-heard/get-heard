@@ -2,7 +2,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle_Notebooks-Master-orange)](https://www.kaggle.com/gkitchen)
 
 
-| Data Dashboards | Classification | Regression | Datasets |  
+| Dashboards | Classification | Regression | Datasets |  
 | ------------- | ------------- | ------------- |   ------------- |  
 | 💰 [US Stock Market Model](https://getheard.quarto.pub/spy) | 💔 [Heart Disease Prediction](https://hearts.streamlit.app)  | 🏡 [House Price Prediction](https://www.kaggle.com/code/gkitchen/house-price-prediction) | 💲 [S&P500 SPY](https://www.kaggle.com/datasets/gkitchen/s-and-p-500-spy) 
 | 🌍 [Global Development](https://getheard.quarto.pub/gapminder)  | 👩‍⚕️ [Autism Prediction](https://www.kaggle.com/code/gkitchen/autism-prediction) | 💎 [Diamond Price Prediction](https://diamondz.streamlit.app) | 👂 [Urban Sound Embeddings](https://www.kaggle.com/datasets/gkitchen/urban-sound-mfcc) 
